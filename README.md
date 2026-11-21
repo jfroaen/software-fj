@@ -32,4 +32,4 @@ Al correr se hacen 16 operaciones (válidas e inválidas) y se genera `logs/soft
 - **Logs:** todo error y evento queda en `logs/software_fj.log`.
 
 ## Integrantes
-Completar con los nombres de los 5 integrantes y la parte que hizo cada uno.
+Jhon Fredy Roa Enciso
