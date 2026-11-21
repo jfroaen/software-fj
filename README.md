@@ -2,10 +2,10 @@
 
 Proyecto de la **Fase 4 - Componente práctico - Prácticas simuladas** del curso Programación (213023A_2204), UNAD.
 
-Sistema orientado a objetos en Python, **sin base de datos** (solo objetos y listas). Los archivos se usan únicamente para el log de eventos y errores.
+
 
 ## Cómo ejecutarlo
-Requiere Python 3.8 o superior y no necesita instalar nada.
+Python 3.8 o superior y no necesita instalar nada.
 
     python main.py
 
